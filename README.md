@@ -13,8 +13,8 @@ Each lab includes:
 ## 🔧 Tools & Technologies
 - **Cisco Packet Tracer**
 - **Wireshark** (for packet analysis)
-- **Draw.io** (for network diagrams)
-- **Optional:** Python + Netmiko / Ansible for future network automation
+- **Micorsoft Visio** (for network diagrams)
+  
 
 ---
 
