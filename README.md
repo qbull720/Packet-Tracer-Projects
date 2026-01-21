@@ -12,7 +12,6 @@ Each lab includes:
 
 ## 🔧 Tools & Technologies
 - **Cisco Packet Tracer**
-- **Wireshark** (for packet analysis)
 - **Micorsoft Visio** (for network diagrams)
   
 
