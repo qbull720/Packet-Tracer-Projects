@@ -1,3 +1,3 @@
-# Lab XX — [Lab Name]
+# Lab 01 — Switch-Trunking
 
-Professional CCNA-style lab placeholder.
+
