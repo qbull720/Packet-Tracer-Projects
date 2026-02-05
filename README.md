@@ -34,5 +34,4 @@ Each lab includes:
 
 ---
 
-## 📂 Repository Structure
 
