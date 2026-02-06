@@ -28,7 +28,7 @@ Each lab includes:
 | 05  | OSPF | Dynamic routing configuration, neighbor relationships |
 | 06  | NAT | NAT setup for internal-to-external connectivity |
 | 07  | DHCP & DNS | Configuring DHCP servers and DNS lookups |
-| 08  | VPN Basics | Site-to-site VPN configuration and testing |
+| 08  | Access Control Lists | Standard and Extended ACLs|
 | 09  | Spanning Tree Protocol | Loop prevention and redundant link management |
 | 10  | Advanced Project | Multi-site topology combining routing, VLANs, NAT, and VPN |
 
