@@ -13,7 +13,7 @@ Implement static routing between multiple routers to enable predictable network 
 
 ## 🛠 Tools & Topology
 - Cisco Packet Tracer  
-- Diagram: `diagram.vsdx`
+- Multiple routers with static address assignments to interfaces
 
 ---
 
